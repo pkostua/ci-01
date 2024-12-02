@@ -6,3 +6,9 @@
 ### остальные задачи
 ![image](https://github.com/user-attachments/assets/0c8fc51d-daff-44e6-bff1-8b6a67dad5e3)
 
+## Ссылки на xml файлы
+### bug
+https://github.com/pkostua/ci-01/blob/master/bug.xml
+
+### остальные задачи
+https://github.com/pkostua/ci-01/blob/master/Tasks.xml
